@@ -4,7 +4,7 @@ import csv
 
 """
 福岡にいて、python関連のつぶやきをしている人を探します。
-範囲は博多駅を起点に70kmです。北九州市も入っています。
+範囲は博多駅を起点に100kmです。北九州市も入っています。
 
 外部に公開するときは必ずtweepy.OAuthHandler, auth.set_access_tokenの中身差し替え!
 """
